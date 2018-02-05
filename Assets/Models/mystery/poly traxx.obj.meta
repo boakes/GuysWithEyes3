@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 2e2c887c840eb17459703702c74d3516
+timeCreated: 1517787660
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component_1_ID134
+    100002: Component_1_ID140
+    100004: Component_1_ID146
+    100006: Component_1_ID152
+    100008: Component_1_ID16
+    100010: Component_1_ID22
+    100012: Component_1_ID28
+    100014: Component_1_ID8
+    100016: Component_2_ID256
+    100018: Component_2_ID262
+    100020: Component_2_ID268
+    100022: Component_2_ID274
+    100024: Component_2_ID280
+    100026: Component_2_ID288
+    100028: Component_2_ID296
+    100030: Component_2_ID302
+    100032: Component_2_ID310
+    100034: Component_2_ID318
+    100036: Component_2_ID326
+    100038: Component_2_ID332
+    100040: Component_2_ID338
+    100042: Component_2_ID346
+    100044: Component_2_ID352
+    100046: Component_2_ID360
+    100048: Component_2_ID366
+    100050: Component_2_ID372
+    100052: Component_2_ID378
+    100054: Component_2_ID384
+    100056: Component_2_ID390
+    100058: Component_2_ID396
+    100060: Component_2_ID418
+    100062: Component_2_ID424
+    100064: Component_2_ID430
+    100066: Component_2_ID436
+    100068: Component_2_ID442
+    100070: Component_2_ID448
+    100072: Component_2_ID454
+    100074: Component_2_ID460
+    100076: Component_2_ID466
+    100078: Component_2_ID472
+    100080: Component_2_ID478
+    100082: Component_2_ID484
+    100084: Component_2_ID490
+    100086: Component_2_ID496
+    100088: Component_2_ID502
+    100090: Component_2_ID508
+    100092: Component_2_ID514
+    100094: Component_2_ID520
+    100096: Component_2_ID526
+    100098: Component_2_ID532
+    100100: Component_2_ID538
+    100102: Component_2_ID544
+    100104: Component_4_ID562
+    100106: Component_4_ID570
+    100108: Component_4_ID578
+    100110: Component_4_ID586
+    100112: Component_4_ID592
+    100114: Component_4_ID598
+    100116: //RootNode
+    400000: Component_1_ID134
+    400002: Component_1_ID140
+    400004: Component_1_ID146
+    400006: Component_1_ID152
+    400008: Component_1_ID16
+    400010: Component_1_ID22
+    400012: Component_1_ID28
+    400014: Component_1_ID8
+    400016: Component_2_ID256
+    400018: Component_2_ID262
+    400020: Component_2_ID268
+    400022: Component_2_ID274
+    400024: Component_2_ID280
+    400026: Component_2_ID288
+    400028: Component_2_ID296
+    400030: Component_2_ID302
+    400032: Component_2_ID310
+    400034: Component_2_ID318
+    400036: Component_2_ID326
+    400038: Component_2_ID332
+    400040: Component_2_ID338
+    400042: Component_2_ID346
+    400044: Component_2_ID352
+    400046: Component_2_ID360
+    400048: Component_2_ID366
+    400050: Component_2_ID372
+    400052: Component_2_ID378
+    400054: Component_2_ID384
+    400056: Component_2_ID390
+    400058: Component_2_ID396
+    400060: Component_2_ID418
+    400062: Component_2_ID424
+    400064: Component_2_ID430
+    400066: Component_2_ID436
+    400068: Component_2_ID442
+    400070: Component_2_ID448
+    400072: Component_2_ID454
+    400074: Component_2_ID460
+    400076: Component_2_ID466
+    400078: Component_2_ID472
+    400080: Component_2_ID478
+    400082: Component_2_ID484
+    400084: Component_2_ID490
+    400086: Component_2_ID496
+    400088: Component_2_ID502
+    400090: Component_2_ID508
+    400092: Component_2_ID514
+    400094: Component_2_ID520
+    400096: Component_2_ID526
+    400098: Component_2_ID532
+    400100: Component_2_ID538
+    400102: Component_2_ID544
+    400104: Component_4_ID562
+    400106: Component_4_ID570
+    400108: Component_4_ID578
+    400110: Component_4_ID586
+    400112: Component_4_ID592
+    400114: Component_4_ID598
+    400116: //RootNode
+    2300000: Component_1_ID134
+    2300002: Component_1_ID140
+    2300004: Component_1_ID146
+    2300006: Component_1_ID152
+    2300008: Component_1_ID16
+    2300010: Component_1_ID22
+    2300012: Component_1_ID28
+    2300014: Component_1_ID8
+    2300016: Component_2_ID256
+    2300018: Component_2_ID262
+    2300020: Component_2_ID268
+    2300022: Component_2_ID274
+    2300024: Component_2_ID280
+    2300026: Component_2_ID288
+    2300028: Component_2_ID296
+    2300030: Component_2_ID302
+    2300032: Component_2_ID310
+    2300034: Component_2_ID318
+    2300036: Component_2_ID326
+    2300038: Component_2_ID332
+    2300040: Component_2_ID338
+    2300042: Component_2_ID346
+    2300044: Component_2_ID352
+    2300046: Component_2_ID360
+    2300048: Component_2_ID366
+    2300050: Component_2_ID372
+    2300052: Component_2_ID378
+    2300054: Component_2_ID384
+    2300056: Component_2_ID390
+    2300058: Component_2_ID396
+    2300060: Component_2_ID418
+    2300062: Component_2_ID424
+    2300064: Component_2_ID430
+    2300066: Component_2_ID436
+    2300068: Component_2_ID442
+    2300070: Component_2_ID448
+    2300072: Component_2_ID454
+    2300074: Component_2_ID460
+    2300076: Component_2_ID466
+    2300078: Component_2_ID472
+    2300080: Component_2_ID478
+    2300082: Component_2_ID484
+    2300084: Component_2_ID490
+    2300086: Component_2_ID496
+    2300088: Component_2_ID502
+    2300090: Component_2_ID508
+    2300092: Component_2_ID514
+    2300094: Component_2_ID520
+    2300096: Component_2_ID526
+    2300098: Component_2_ID532
+    2300100: Component_2_ID538
+    2300102: Component_2_ID544
+    2300104: Component_4_ID562
+    2300106: Component_4_ID570
+    2300108: Component_4_ID578
+    2300110: Component_4_ID586
+    2300112: Component_4_ID592
+    2300114: Component_4_ID598
+    3300000: Component_1_ID134
+    3300002: Component_1_ID140
+    3300004: Component_1_ID146
+    3300006: Component_1_ID152
+    3300008: Component_1_ID16
+    3300010: Component_1_ID22
+    3300012: Component_1_ID28
+    3300014: Component_1_ID8
+    3300016: Component_2_ID256
+    3300018: Component_2_ID262
+    3300020: Component_2_ID268
+    3300022: Component_2_ID274
+    3300024: Component_2_ID280
+    3300026: Component_2_ID288
+    3300028: Component_2_ID296
+    3300030: Component_2_ID302
+    3300032: Component_2_ID310
+    3300034: Component_2_ID318
+    3300036: Component_2_ID326
+    3300038: Component_2_ID332
+    3300040: Component_2_ID338
+    3300042: Component_2_ID346
+    3300044: Component_2_ID352
+    3300046: Component_2_ID360
+    3300048: Component_2_ID366
+    3300050: Component_2_ID372
+    3300052: Component_2_ID378
+    3300054: Component_2_ID384
+    3300056: Component_2_ID390
+    3300058: Component_2_ID396
+    3300060: Component_2_ID418
+    3300062: Component_2_ID424
+    3300064: Component_2_ID430
+    3300066: Component_2_ID436
+    3300068: Component_2_ID442
+    3300070: Component_2_ID448
+    3300072: Component_2_ID454
+    3300074: Component_2_ID460
+    3300076: Component_2_ID466
+    3300078: Component_2_ID472
+    3300080: Component_2_ID478
+    3300082: Component_2_ID484
+    3300084: Component_2_ID490
+    3300086: Component_2_ID496
+    3300088: Component_2_ID502
+    3300090: Component_2_ID508
+    3300092: Component_2_ID514
+    3300094: Component_2_ID520
+    3300096: Component_2_ID526
+    3300098: Component_2_ID532
+    3300100: Component_2_ID538
+    3300102: Component_2_ID544
+    3300104: Component_4_ID562
+    3300106: Component_4_ID570
+    3300108: Component_4_ID578
+    3300110: Component_4_ID586
+    3300112: Component_4_ID592
+    3300114: Component_4_ID598
+    4300000: Component_1_ID134
+    4300002: Component_1_ID140
+    4300004: Component_1_ID146
+    4300006: Component_1_ID152
+    4300008: Component_1_ID16
+    4300010: Component_1_ID22
+    4300012: Component_1_ID28
+    4300014: Component_1_ID8
+    4300016: Component_2_ID256
+    4300018: Component_2_ID262
+    4300020: Component_2_ID268
+    4300022: Component_2_ID274
+    4300024: Component_2_ID280
+    4300026: Component_2_ID288
+    4300028: Component_2_ID296
+    4300030: Component_2_ID302
+    4300032: Component_2_ID310
+    4300034: Component_2_ID318
+    4300036: Component_2_ID326
+    4300038: Component_2_ID332
+    4300040: Component_2_ID338
+    4300042: Component_2_ID346
+    4300044: Component_2_ID352
+    4300046: Component_2_ID360
+    4300048: Component_2_ID366
+    4300050: Component_2_ID372
+    4300052: Component_2_ID378
+    4300054: Component_2_ID384
+    4300056: Component_2_ID390
+    4300058: Component_2_ID396
+    4300060: Component_2_ID418
+    4300062: Component_2_ID424
+    4300064: Component_2_ID430
+    4300066: Component_2_ID436
+    4300068: Component_2_ID442
+    4300070: Component_2_ID448
+    4300072: Component_2_ID454
+    4300074: Component_2_ID460
+    4300076: Component_2_ID466
+    4300078: Component_2_ID472
+    4300080: Component_2_ID478
+    4300082: Component_2_ID484
+    4300084: Component_2_ID490
+    4300086: Component_2_ID496
+    4300088: Component_2_ID502
+    4300090: Component_2_ID508
+    4300092: Component_2_ID514
+    4300094: Component_2_ID520
+    4300096: Component_2_ID526
+    4300098: Component_2_ID532
+    4300100: Component_2_ID538
+    4300102: Component_2_ID544
+    4300104: Component_4_ID562
+    4300106: Component_4_ID570
+    4300108: Component_4_ID578
+    4300110: Component_4_ID586
+    4300112: Component_4_ID592
+    4300114: Component_4_ID598
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID134Mat
+    second: {fileID: 2100000, guid: dd7ab0df3eae0b442bed44dde509a9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID140Mat
+    second: {fileID: 2100000, guid: 6249273bfeaaffb4d973e3031a3676f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID146Mat
+    second: {fileID: 2100000, guid: 9290f2ab3a4b0e8469afa04027349b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID152Mat
+    second: {fileID: 2100000, guid: dccad27a8d86647469203f4465abd88b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID16Mat
+    second: {fileID: 2100000, guid: f945c3d9736791a469247dffa12a15fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID22Mat
+    second: {fileID: 2100000, guid: 4a7f5e6f59f3ed54cbf2ecaa467d39ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID28Mat
+    second: {fileID: 2100000, guid: 6c37c6513a7e32744b922d8b4197477b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_1_ID8Mat
+    second: {fileID: 2100000, guid: f5e0344e15089af45941fe4d2b528cbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID256Mat
+    second: {fileID: 2100000, guid: 1e4e84214ad9fe64297fafc97054c28e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID262Mat
+    second: {fileID: 2100000, guid: 39764b64d9e9db044aed4fb7fde8e7e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID268Mat
+    second: {fileID: 2100000, guid: 66dd62e5a47241e4980a32c858f2cc70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID274Mat
+    second: {fileID: 2100000, guid: ce5249a25bf83c64b83adc1a037cfbcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID280Mat
+    second: {fileID: 2100000, guid: 8bdaf13049b3b7146a058eee7a2a09d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID288Mat
+    second: {fileID: 2100000, guid: 7a8ba984d75fced44b5ac31c6f0bf5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID296Mat
+    second: {fileID: 2100000, guid: 3995892bc5ba580469ebd72f100b7bbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID302Mat
+    second: {fileID: 2100000, guid: 034b9f0396b83184e8fb7e55950ce5cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID310Mat
+    second: {fileID: 2100000, guid: db5260c857c28df4784e58b30f1c21d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID318Mat
+    second: {fileID: 2100000, guid: 34ae3540c37c3a7409fd3230e86b212e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID326Mat
+    second: {fileID: 2100000, guid: e234f34daa278834091bcb50d6be62ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID332Mat
+    second: {fileID: 2100000, guid: 4683c91ad6ab5884ea1623d666ead3e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID338Mat
+    second: {fileID: 2100000, guid: 3f26a9e8633a19f4b9b496426269e94d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID346Mat
+    second: {fileID: 2100000, guid: c02c9d24935f97441a0b93a8eab69b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID352Mat
+    second: {fileID: 2100000, guid: e1fd071e38fcd184c9fe03e6e8c22925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID360Mat
+    second: {fileID: 2100000, guid: eba4b36743a457d4f8bcf24a03aa356a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID366Mat
+    second: {fileID: 2100000, guid: 2b205efb358172141b90650dc3351792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID372Mat
+    second: {fileID: 2100000, guid: 50f534b368b7c0e49adf86e86df9a1c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID378Mat
+    second: {fileID: 2100000, guid: ddf1b5ed4fc134844bdf06d48be58ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID384Mat
+    second: {fileID: 2100000, guid: 1e22d933dc9ad7b458acbc44dddc46ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID390Mat
+    second: {fileID: 2100000, guid: 652e9db71f71df64f8e5f679b41559ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID396Mat
+    second: {fileID: 2100000, guid: ac3e549c7256e15428c147210056ba2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID418Mat
+    second: {fileID: 2100000, guid: 2759a59d8881b32468bb27c223741913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID424Mat
+    second: {fileID: 2100000, guid: 93c924f1fbe462a489bae60832331584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID430Mat
+    second: {fileID: 2100000, guid: a29c709bd9e226e4a8ab7ff42970c991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID436Mat
+    second: {fileID: 2100000, guid: 47a0c09b1b7bd614c8dcd0f7f0b245f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID442Mat
+    second: {fileID: 2100000, guid: 6e613fe9fd6367940b4ec31e295cc555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID448Mat
+    second: {fileID: 2100000, guid: 45200743779c5b0498cfb5ead530139d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID454Mat
+    second: {fileID: 2100000, guid: 8ec872416a28ffb4dbe5a4888203c20b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID460Mat
+    second: {fileID: 2100000, guid: 6b10c7eb67d4ee741bdcbd31da963c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID466Mat
+    second: {fileID: 2100000, guid: df01d3f0d1ab7e846be0119176dd2871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID472Mat
+    second: {fileID: 2100000, guid: 3882aa88966eb0c42a08e3379e08a334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID478Mat
+    second: {fileID: 2100000, guid: 6b4e579a360483341aac57e218fac963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID484Mat
+    second: {fileID: 2100000, guid: e076c515fa0369940818cb247090758f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID490Mat
+    second: {fileID: 2100000, guid: 577db789c1ec02846954133488219c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID496Mat
+    second: {fileID: 2100000, guid: 27492b176f7efd94c9c51dd24fd70787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID502Mat
+    second: {fileID: 2100000, guid: c783193882bc9bc409cbd9b045f85fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID508Mat
+    second: {fileID: 2100000, guid: a41ce92b32cb8c946b2eddf01a572218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID514Mat
+    second: {fileID: 2100000, guid: bf7f8587b4cc0fa42a15a589e317b3cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID520Mat
+    second: {fileID: 2100000, guid: 3b3ae8bfd800c794593ac9bd9a48ef31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID526Mat
+    second: {fileID: 2100000, guid: 5022b1adb07a6d8469aad24fc407482c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID532Mat
+    second: {fileID: 2100000, guid: d95bd00d14672dd4cb56f58862818849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID538Mat
+    second: {fileID: 2100000, guid: 7083125cfc322044c8d651f3ec537605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_2_ID544Mat
+    second: {fileID: 2100000, guid: ca6eade267346c84886888f6dc907fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_4_ID562Mat
+    second: {fileID: 2100000, guid: 2b211b7f62c49e74b9bdd08de2a82b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_4_ID570Mat
+    second: {fileID: 2100000, guid: 969cc0e587464cb4d8c0f0687906a39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_4_ID578Mat
+    second: {fileID: 2100000, guid: 1f4c013a63f07944b81ae063ae674ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_4_ID586Mat
+    second: {fileID: 2100000, guid: fd07dc75b13f3ae4d8ad89ac6dc1caaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_4_ID592Mat
+    second: {fileID: 2100000, guid: eb430aee4477cf04bb66ac8d9d36a6c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Component_4_ID598Mat
+    second: {fileID: 2100000, guid: 55714275802238043ac0a661f53e59be, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
