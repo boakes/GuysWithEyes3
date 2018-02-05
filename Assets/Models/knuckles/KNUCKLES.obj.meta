@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 48f105647b0380049a1ca03ec5f5823b
+timeCreated: 1517788098
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh10_fff1_Model
+    100004: Mesh11_fff1_Model
+    100006: Mesh12_fff1_Model
+    100008: Mesh13_fff1_Model
+    100010: Mesh14_fff1_Model
+    100012: Mesh1_fff1_Model
+    100014: Mesh2_fff1_Model
+    100016: Mesh3_fff1_Model
+    100018: Mesh41_Model
+    100020: Mesh42_Model
+    100022: Mesh43_Model
+    100024: Mesh44_Model
+    100026: Mesh45_Model
+    100028: Mesh46_Model
+    100030: Mesh47_Model
+    100032: Mesh48_Model
+    100034: Mesh49_Model
+    100036: Mesh4_fff1_Model
+    100038: Mesh50_Model
+    100040: Mesh51_Model
+    100042: Mesh52_Model
+    100044: Mesh53_Model
+    100046: Mesh54_Model
+    100048: Mesh55_Model
+    100050: Mesh56_Model
+    100052: Mesh57_Model
+    100054: Mesh58_Model
+    100056: Mesh59_Model
+    100058: Mesh5_fff1_Model
+    100060: Mesh60_Model
+    100062: Mesh61_Model
+    100064: Mesh62_Model
+    100066: Mesh63_Model
+    100068: Mesh64_Model
+    100070: Mesh65_Model
+    100072: Mesh66_Model
+    100074: Mesh67_Model
+    100076: Mesh68_Model
+    100078: Mesh69_Model
+    100080: Mesh6_fff1_Model
+    100082: Mesh70_Model
+    100084: Mesh7_fff1_Model
+    100086: Mesh8_fff1_Model
+    100088: Mesh9_fff1_Model
+    400000: //RootNode
+    400002: Mesh10_fff1_Model
+    400004: Mesh11_fff1_Model
+    400006: Mesh12_fff1_Model
+    400008: Mesh13_fff1_Model
+    400010: Mesh14_fff1_Model
+    400012: Mesh1_fff1_Model
+    400014: Mesh2_fff1_Model
+    400016: Mesh3_fff1_Model
+    400018: Mesh41_Model
+    400020: Mesh42_Model
+    400022: Mesh43_Model
+    400024: Mesh44_Model
+    400026: Mesh45_Model
+    400028: Mesh46_Model
+    400030: Mesh47_Model
+    400032: Mesh48_Model
+    400034: Mesh49_Model
+    400036: Mesh4_fff1_Model
+    400038: Mesh50_Model
+    400040: Mesh51_Model
+    400042: Mesh52_Model
+    400044: Mesh53_Model
+    400046: Mesh54_Model
+    400048: Mesh55_Model
+    400050: Mesh56_Model
+    400052: Mesh57_Model
+    400054: Mesh58_Model
+    400056: Mesh59_Model
+    400058: Mesh5_fff1_Model
+    400060: Mesh60_Model
+    400062: Mesh61_Model
+    400064: Mesh62_Model
+    400066: Mesh63_Model
+    400068: Mesh64_Model
+    400070: Mesh65_Model
+    400072: Mesh66_Model
+    400074: Mesh67_Model
+    400076: Mesh68_Model
+    400078: Mesh69_Model
+    400080: Mesh6_fff1_Model
+    400082: Mesh70_Model
+    400084: Mesh7_fff1_Model
+    400086: Mesh8_fff1_Model
+    400088: Mesh9_fff1_Model
+    2300000: Mesh10_fff1_Model
+    2300002: Mesh11_fff1_Model
+    2300004: Mesh12_fff1_Model
+    2300006: Mesh13_fff1_Model
+    2300008: Mesh14_fff1_Model
+    2300010: Mesh1_fff1_Model
+    2300012: Mesh2_fff1_Model
+    2300014: Mesh3_fff1_Model
+    2300016: Mesh41_Model
+    2300018: Mesh42_Model
+    2300020: Mesh43_Model
+    2300022: Mesh44_Model
+    2300024: Mesh45_Model
+    2300026: Mesh46_Model
+    2300028: Mesh47_Model
+    2300030: Mesh48_Model
+    2300032: Mesh49_Model
+    2300034: Mesh4_fff1_Model
+    2300036: Mesh50_Model
+    2300038: Mesh51_Model
+    2300040: Mesh52_Model
+    2300042: Mesh53_Model
+    2300044: Mesh54_Model
+    2300046: Mesh55_Model
+    2300048: Mesh56_Model
+    2300050: Mesh57_Model
+    2300052: Mesh58_Model
+    2300054: Mesh59_Model
+    2300056: Mesh5_fff1_Model
+    2300058: Mesh60_Model
+    2300060: Mesh61_Model
+    2300062: Mesh62_Model
+    2300064: Mesh63_Model
+    2300066: Mesh64_Model
+    2300068: Mesh65_Model
+    2300070: Mesh66_Model
+    2300072: Mesh67_Model
+    2300074: Mesh68_Model
+    2300076: Mesh69_Model
+    2300078: Mesh6_fff1_Model
+    2300080: Mesh70_Model
+    2300082: Mesh7_fff1_Model
+    2300084: Mesh8_fff1_Model
+    2300086: Mesh9_fff1_Model
+    3300000: Mesh10_fff1_Model
+    3300002: Mesh11_fff1_Model
+    3300004: Mesh12_fff1_Model
+    3300006: Mesh13_fff1_Model
+    3300008: Mesh14_fff1_Model
+    3300010: Mesh1_fff1_Model
+    3300012: Mesh2_fff1_Model
+    3300014: Mesh3_fff1_Model
+    3300016: Mesh41_Model
+    3300018: Mesh42_Model
+    3300020: Mesh43_Model
+    3300022: Mesh44_Model
+    3300024: Mesh45_Model
+    3300026: Mesh46_Model
+    3300028: Mesh47_Model
+    3300030: Mesh48_Model
+    3300032: Mesh49_Model
+    3300034: Mesh4_fff1_Model
+    3300036: Mesh50_Model
+    3300038: Mesh51_Model
+    3300040: Mesh52_Model
+    3300042: Mesh53_Model
+    3300044: Mesh54_Model
+    3300046: Mesh55_Model
+    3300048: Mesh56_Model
+    3300050: Mesh57_Model
+    3300052: Mesh58_Model
+    3300054: Mesh59_Model
+    3300056: Mesh5_fff1_Model
+    3300058: Mesh60_Model
+    3300060: Mesh61_Model
+    3300062: Mesh62_Model
+    3300064: Mesh63_Model
+    3300066: Mesh64_Model
+    3300068: Mesh65_Model
+    3300070: Mesh66_Model
+    3300072: Mesh67_Model
+    3300074: Mesh68_Model
+    3300076: Mesh69_Model
+    3300078: Mesh6_fff1_Model
+    3300080: Mesh70_Model
+    3300082: Mesh7_fff1_Model
+    3300084: Mesh8_fff1_Model
+    3300086: Mesh9_fff1_Model
+    4300000: Mesh10_fff1_Model
+    4300002: Mesh11_fff1_Model
+    4300004: Mesh12_fff1_Model
+    4300006: Mesh13_fff1_Model
+    4300008: Mesh14_fff1_Model
+    4300010: Mesh1_fff1_Model
+    4300012: Mesh2_fff1_Model
+    4300014: Mesh3_fff1_Model
+    4300016: Mesh41_Model
+    4300018: Mesh42_Model
+    4300020: Mesh43_Model
+    4300022: Mesh44_Model
+    4300024: Mesh45_Model
+    4300026: Mesh46_Model
+    4300028: Mesh47_Model
+    4300030: Mesh48_Model
+    4300032: Mesh49_Model
+    4300034: Mesh4_fff1_Model
+    4300036: Mesh50_Model
+    4300038: Mesh51_Model
+    4300040: Mesh52_Model
+    4300042: Mesh53_Model
+    4300044: Mesh54_Model
+    4300046: Mesh55_Model
+    4300048: Mesh56_Model
+    4300050: Mesh57_Model
+    4300052: Mesh58_Model
+    4300054: Mesh59_Model
+    4300056: Mesh5_fff1_Model
+    4300058: Mesh60_Model
+    4300060: Mesh61_Model
+    4300062: Mesh62_Model
+    4300064: Mesh63_Model
+    4300066: Mesh64_Model
+    4300068: Mesh65_Model
+    4300070: Mesh66_Model
+    4300072: Mesh67_Model
+    4300074: Mesh68_Model
+    4300076: Mesh69_Model
+    4300078: Mesh6_fff1_Model
+    4300080: Mesh70_Model
+    4300082: Mesh7_fff1_Model
+    4300084: Mesh8_fff1_Model
+    4300086: Mesh9_fff1_Model
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_J01
+    second: {fileID: 2100000, guid: 8ac1b6b0e9274cb4a8c4f4a517056e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knuckles_Gloves1
+    second: {fileID: 2100000, guid: f170f39d2551af14fa482a4e9eb77d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knuckles_Red1
+    second: {fileID: 2100000, guid: e461b58318f6a4141a549de4e5826bf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0008_LavenderBlush
+    second: {fileID: 2100000, guid: 44dc100ee94a75d4597549e4f167a578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0020_Red
+    second: {fileID: 2100000, guid: 31d776816431f5e4595274f22b41b902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_13___Default2
+    second: {fileID: 2100000, guid: a10b2cb1d373f484896e2d690a226719, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_14___Default2
+    second: {fileID: 2100000, guid: 8590692490f403b4ca60ae867f90e214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_15___Default1
+    second: {fileID: 2100000, guid: 80ac016728433c845a1e556407aa4f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_1___Default1
+    second: {fileID: 2100000, guid: bd7d8e4f4a69b914b82776f480009135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_2___Default1
+    second: {fileID: 2100000, guid: 30e4d18c579777b4c9b7a013b1c51b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_3___Default2
+    second: {fileID: 2100000, guid: 35bc1e78226d45e4b929493292ebbea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_7___Default2
+    second: {fileID: 2100000, guid: 1afdff0232a55e646b7220265e921281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_8___Default1
+    second: {fileID: 2100000, guid: d3304069565fa014885c9160bdd2de9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_9___Default1
+    second: {fileID: 2100000, guid: 2ee5ca48a1c7a10448c6c72b232be072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__2
+    second: {fileID: 2100000, guid: 5eb882400b43f9449b348b713b4712be, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
