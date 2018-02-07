@@ -5,6 +5,7 @@ using UnityEngine.Events;
 
 public class Movement : MonoBehaviour{
 
+	public Camera playerCam;
 	private Rigidbody rb; 
 	public Vector3 forwardForce;
 
@@ -14,13 +15,16 @@ public class Movement : MonoBehaviour{
 	private Vector3 initPos;
 
 	public string playerNum;
-	public float horiz_player;
+	public float RT_P;
+	public float LT_P;
 
-
+ 
 	void Start(){
-		forwardForce = new Vector3(-10f,0f,0f);
-		backwardForce = new Vector3(10f,0f,0f);
-		jumpForce = new Vector3(0f,10f,0f);
+		//playerCam = Camera.main;
+		forwardForce = playerCam.transform.forward * 100;
+		backwardForce = forwardForce * -1;
+
+		jumpForce = playerCam.transform.up * 1000;
 		initPos = transform.position;
 		rb = GetComponent<Rigidbody>();
 		//mesh = GetComponent<MeshRenderer>();
@@ -28,16 +32,22 @@ public class Movement : MonoBehaviour{
 	}
 
 	void Update(){
-		horiz_player = Input.GetAxis("Horizontal_P"+playerNum);
-		Debug.Log(horiz_player);
+		forwardForce = playerCam.transform.forward * 100;
+		backwardForce = forwardForce * -1;
+		
+		
+		RT_P = Input.GetAxis("RT_P"+playerNum);
+		LT_P = Input.GetAxis("LT_P"+playerNum);
+		//Debug.Log(horiz_player);
 
-		if (horiz_player >= 1.0f){
+		if (RT_P > 0 || Input.GetKeyDown(KeyCode.W)){
 			rb.AddForce(forwardForce);
 		}
-		if (horiz_player <= 0f){
-			rb.AddForce(backwardForce);
+		if (LT_P > 0f){
+			rb.velocity = Vector3.zero;
 		}
-		if(Input.GetKey(KeyCode.Space)){
+		if(Input.GetButtonDown("A_P"+playerNum)){
+			Debug.Log("A pressed");
 			rb.AddForce(jumpForce);
 		}
 	}
